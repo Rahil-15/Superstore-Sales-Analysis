@@ -1,0 +1,8 @@
+git init //to start
+git add "Path" // to add the file to repo
+git commit -m "Message" //TO send message for a particular repo i am uploading at a time
+gti branch -M Main to add diff branches
+git remote add origin https://github.com/Rahil-15/Superstore-Sales-Analysis.git // to link repo t file
+git push -u origin main // to push th efile
+git rm "Name/Path of file"// TO delete any file from repo
+git commit -am "Name/Path of file" // To add any file from repo
