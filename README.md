@@ -49,7 +49,7 @@ The dataset used is the **Superstore dataset (2019–2022)**, available on Kaggl
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/superstore-sales-analysis.git
+   git clone https://github.com/Rahil-15/superstore-sales-analysis.git
    cd superstore-sales-analysis
    ```
 
