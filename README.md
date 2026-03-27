@@ -17,10 +17,10 @@ This project performs **Exploratory Data Analysis (EDA)** on a Superstore datase
 
 ## 📊 Example Visualizations
 
-* **Bar Chart** → Sales by category and subcategory.
-* **Pie Chart** → Sales share by customer segment.
-* **Line Chart** → Monthly sales trends.
-* **Bar Chart** → Top 10 cities by sales.
+* **Bar Chart** → Shows Sales by category and subcategory.
+* **Pie Chart** → Shows Sales share by customer segment.
+* **Line Chart** → Shows Monthly sales trends.
+* **Bar Chart** → Shows Top 10 cities by sales.
 
 ---
 
